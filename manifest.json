@@ -1,0 +1,38 @@
+{
+    "name" : "Contador App Ract",
+    "short_name" : "Contador React",
+    "description" : "Contador app hecha con React, practicando desde el curso",
+    "background_color": "#333333",
+    "theme_color": "#333333",
+    "start_url": "./",
+    "scope": "./",
+    "lang": "es-AR",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "ico/android-launchericon-512-512.png",
+            "sizes": "512x512"
+          },
+          {
+            "src": "ico/android-launchericon-192-192.png",
+            "sizes": "192x192"
+          },
+          {
+            "src": "ico/android-launchericon-144-144.png",
+            "sizes": "144x144"
+          },
+          {
+            "src": "ico/android-launchericon-96-96.png",
+            "sizes": "96x96"
+          },
+          {
+            "src": "ico/android-launchericon-72-72.png",
+            "sizes": "72x72"
+          },
+          {
+            "src": "ico/android-launchericon-48-48.png",
+            "sizes": "48x48"
+          }
+    ]
+}
